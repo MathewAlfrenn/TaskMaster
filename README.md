@@ -6,17 +6,18 @@ Live Application: https://flasktutotaskmaster-906f64799754.herokuapp.com/
 
 # Technologies Used:
 
-Frontend: Flask, HTML, CSS
-Backend: Flask, python
-Database: SQLAlchemy
-Templating Engine/dynamic content: Jinja2
-Deployment: Heroku
+Frontend: Flask, HTML, CSS <br>
+Backend: Flask, Python <br>
+Database: SQLite with SQLAlchemy <br>
+Templating Engine/dynamic content: Jinja2 <br>
+Deployment: Heroku <br>
 Version Control: Git
 
-# MVC Architecture
 
-The TaskMaster Web Application follows the Model-View-Controller (MVC) architecture:
+# MVC Architecture <br>
 
-Model: The task data and application logic (handled by the Todo class in the backend).
-View: The frontend (HTML and CSS) that displays tasks to users.
+The TaskMaster Web Application follows the Model-View-Controller (MVC) architecture: <br>
+
+Model: The task data and application logic (handled by the Todo class in the backend). <br>
+View: The frontend (HTML and CSS) that displays tasks to users. <br>
 Controller: Routes in Flask that handle user input, interact with the model, and render the view accordingly.
